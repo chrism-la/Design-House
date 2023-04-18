@@ -17,20 +17,17 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-
 }
 .navbar ul li{
     list-style: none;
     display: inline-block;
     margin: 0 20px;
     position: relative;
-
 }
 .navbar ul li a{
     text-decoration: none;
     color: #fff;
     text-transform: uppercase;
-
 }
 .navbar ul li::after{
     content: '';
@@ -40,5 +37,4 @@
     position: absolute;
     left: 0;
     bottom: 0;
-
 }
