@@ -42,4 +42,11 @@
 .navbar ul li:hover::after{
     width: 100%;
 }
-.header{}
+.content{
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: #fff;
+}
