@@ -90,3 +90,6 @@ button:hover span{
 button:hover{
     border: none;
 }
+button{
+    font-family: sans-serif;
+}
